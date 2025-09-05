@@ -14,6 +14,17 @@ const App = () => {
 className='outline-none px-4 py-1 rounded-full text-white shadow-lg'
 style={{backgroundColor:"red"}}
 >Red</button>
+
+<button
+className='outline-none px-4 py-1 rounded-full text-white shadow-lg'
+style={{backgroundColor:"green"}}
+>Red</button>
+
+<button
+className='outline-none px-4 py-1 rounded-full text-white shadow-lg'
+style={{backgroundColor:"blue"}}
+>Red</button>
+
 </div>
       </div>
       
